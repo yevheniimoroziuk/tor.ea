@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'mepps-md.tor'
+project = u'tor-ea'
 copyright = u'2016-2017, Quintagroup, Ltd'
 
 # The version info for the project you're documenting, acts as replacement for
