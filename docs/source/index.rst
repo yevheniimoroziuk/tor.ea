@@ -10,7 +10,6 @@ Contents:
    procurementMT
    create
    contractTermsStructure
-   sttendering
    tendering/index
 
 Indices and tables
