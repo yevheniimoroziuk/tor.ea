@@ -7,6 +7,10 @@ procurementMethodType: propertyLease
 
 Нова процедура унаслідується від існуючої процедури продажу майна (dgfOtherAssets), відтак складається з наступних етапів: 
 
-    .. important:: 
-   
-       КАРТИНКА!!!!
+Для параметра minNumberOfQualifiedBids: 2:
+
+.. image:: _static/1.png
+
+Для параметра minNumberOfQualifiedBids: 1:
+
+.. image:: _static/2.png
