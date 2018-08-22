@@ -11,6 +11,9 @@ Contents:
    create
    contractTermsStructure
    tendering/index
+   stActiveAuction
+   stActiveQualification
+   stActiveAwarded
 
 Indices and tables
 ==================
