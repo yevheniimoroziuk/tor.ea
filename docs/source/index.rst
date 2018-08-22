@@ -1,5 +1,5 @@
-Welcome to land-lease.tor's documentation!
-==========================================
+Welcome to ea.tor's documentation!
+==================================
 
 Contents:
 
@@ -9,10 +9,9 @@ Contents:
    glossary
    procurementMT
    create
-   procStructure
-   docs
-   strectification
-   landLease
+   contractTermsStructure
+   sttendering
+   tendering/index
 
 Indices and tables
 ==================

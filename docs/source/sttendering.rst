@@ -1,7 +1,10 @@
-.. _strectification:
+.. _sttendering:
 
-Status: active.rectification
-============================
+Status:active.tendering
+=======================
+
+Період подачі пропозицій: tenderPeriod
+--------------------------------------
 
 Період редагування процедури: rectificationPeriod
 	Після створення аукціону, система самостійно визначає startDate та endDate періоду редагування.
@@ -17,3 +20,5 @@ Status: active.rectification
 Значення rectificationPeriod.endDate не може змінюватись Організатором.
 
 В окремому порядку, на вимогу ПО адміністратор може змінити значення виключно поля rectificationPeriod.endDate. При цьому, біди також не змінюються, як і при редагуванні лоту Організатором.
+
+
