@@ -11,6 +11,7 @@ Contents:
    create
    procStructure
    docs
+   strectification
    landLease
 
 Indices and tables
