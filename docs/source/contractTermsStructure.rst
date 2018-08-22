@@ -21,6 +21,5 @@ escalationClauses
    
        ТАБЛИЦІ!!!!
 
-    .. important:: 
-   
-       КАРТИНКА!!!!
+.. literalinclude:: js/Contractterms.http
+   :language: javascript
