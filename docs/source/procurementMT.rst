@@ -1,6 +1,6 @@
 .. _procurementMT:
 
-procurementMethodType:propertyLease
+procurementMethodType: propertyLease
 ===================================
 
 З метою проведення процедури здачі майна в оренду в межах системи ProZorro.Sale CDB2 реалізовано новий procurementMethodType: propertyLease.
