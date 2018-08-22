@@ -10,6 +10,7 @@ Contents:
    procurementMT
    create
    procStructure
+   docs
    landLease
 
 Indices and tables
