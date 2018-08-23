@@ -1,5 +1,5 @@
-Welcome to ea.tor's documentation!
-==================================
+Welcome to propertyLease's documentation!
+=========================================
 
 Contents:
 
@@ -10,7 +10,7 @@ Contents:
    procurementMT
    create
    contractTermsStructure
-   tendering/index
+   tenderPeriod
    stActiveAuction
    stActiveQualification
    stActiveAwarded

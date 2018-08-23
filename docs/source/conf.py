@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'tor-ea'
+project = u'propertyLease'
 copyright = u'2016-2017, Quintagroup, Ltd'
 
 # The version info for the project you're documenting, acts as replacement for
