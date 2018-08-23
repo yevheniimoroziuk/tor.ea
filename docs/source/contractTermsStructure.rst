@@ -57,19 +57,13 @@ taxHolidays
   Тривалість орендних канікул.
 
 :conditions:
-  string, required
+  string, required for Ukrainian, multilingual
 
-  Умови на час орендних канікул. Вказується українською.
+   Умови на час орендних канікул. Вказується українською.
 
-:conditions_en:
-  string, optional
+    * conditions_en - Вказується англійською.
 
-  Умови на час орендних канікул. Вказується англійською.
-
-:conditions_ru:
-  string, optional
-
-  Умови на час орендних канікул. Вказується російською.
+    * conditions_ru - Вказується російською.
 
 :value:
   :ref:`value`, обов'язково
@@ -117,17 +111,10 @@ escalationClauses
   Відсоток, в межах якого здійснюватиметься індексування вартості
 
 :conditions:
-  string, required
+  string, required for Ukrainian, multilingual
 
   Умови проведення індексування. Вказується українською.
 
-:conditions_en:
-  string, oprional
+    * conditions_en - Вказується англійською.
 
-  Умови проведення індексування. Вказується англійською.
-
-:conditions_ru:
-  string, oprional
-
-  Умови проведення індексування. Вказується російською.
-
+    * conditions_ru - Вказується російською.
