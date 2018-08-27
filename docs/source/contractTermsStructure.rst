@@ -27,19 +27,19 @@ leaseTerms
 ----------
 
 :leaseDuration:
-  Durations, обов’язково
+  Тривалість , обов’язково
 
-  Тривалість оренди 
+  Тривалість оренди .
 
 :taxHolidays:
   Масив :ref:`taxHolidays`, не обов’язково
 
-  Орендні канікули
+  Орендні канікули.
 
 :escalationClauses:
   :ref:`escalationClauses`, не обов’язково
 
-  Індексація ціни
+  Індексація ціни.
 
 .. _taxHolidays:
 
@@ -47,19 +47,19 @@ taxHolidays
 -----------
 
 :id:
-  string, auto-generated, read-only
+  uuid, автогенерований, тільки для читання
 
-  Ідентифікатор об’єкту
+  Ідентифікатор об’єкту.
 
 :taxHolidaysDuration:
-  Durations, required
+  тривалість, обов’язково
 
   Тривалість орендних канікул.
 
 :conditions:
-  string, required for Ukrainian, multilingual
+  рядок, обов’язково для української мови, багатомовний
 
-   Умови на час орендних канікул. Вказується українською.
+    Умови на час орендних канікул. Вказується українською.
 
     * conditions_en - Вказується англійською.
 
@@ -76,19 +76,19 @@ Value
 -----
 
 :amount:
-  decimal, required
+  decimal, обов’язково
 
   Вартість оренди на час орендних канікул.
 
 :currency:
-  string, required
+  рядок, обов’язково
 
-  Валюта вартості оренди на час орендних канікул. Єдине доступне значення UAH
+  Валюта вартості оренди на час орендних канікул. Єдине доступне значення UAH.
 
 :valueAddedTaxIncluded:
-  bool, required
+  bool, обов’язково
 
-  Факт урахування ПДВ. Допустимі значення: true або false
+  Факт урахування ПДВ. Допустимі значення: ``true`` або ``false``.
 
 .. _escalationClauses:
 
@@ -96,22 +96,22 @@ escalationClauses
 -----------------
 
 :id:
-  string, auto-generated, read-only
+  uuid, автогенерований, тільки для читання
 
   Ідентифікатор об’єкту
 
 :escalationPeriodicity:
-  Durations`Time intervals, required
+  тривалість, обов’язково
 
   Періодичність, з якою здійснюватиметься індексування вартості.
 
 :escalationStepPercentageRange:
-  decimal, required
+  decimal, обов’язково
 
   Відсоток, в межах якого здійснюватиметься індексування вартості
 
 :conditions:
-  string, required for Ukrainian, multilingual
+  рядок, обов’язково для української мови, багатомовний
 
   Умови проведення індексування. Вказується українською.
 

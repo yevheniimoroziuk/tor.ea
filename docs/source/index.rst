@@ -1,5 +1,5 @@
-Welcome to propertyLease's documentation!
-=========================================
+Вітаємо в документації propertyLease
+====================================
 
 Contents:
 
@@ -14,3 +14,5 @@ Contents:
    stActiveQualification
    stActiveAwarded
    complete
+   unsuccessful
+   
