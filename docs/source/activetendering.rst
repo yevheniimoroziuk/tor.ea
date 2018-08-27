@@ -56,13 +56,13 @@ Status: active.tendering
   Об’єкт, що продається. Дозволяється додавати та видаляти `item’и`.
 
 :value:
-  :ref:`value1`.
+  :ref:`value1`
 
 :minimalStep:
-  :ref:`minimalStep1`.
+  :ref:`minimalStep1`
 
 :guarantee:
-  :ref:`guarantee`.
+  :ref:`guarantee`
 
 .. _value1:
 
@@ -123,4 +123,4 @@ guarantee
 Період уточнень: enquiryPeriod
 ------------------------------
 
-Періодом уточнень - часом, коли учасники задають питання, а Організатор відповідає на них - є `enquiryPerio`d, що за тривалістю аналогічний до `tenderPeriod’у`.
+Періодом уточнень - часом, коли учасники задають питання, а Організатор відповідає на них - є `enquiryPeriod`, що за тривалістю аналогічний до `tenderPeriod’у`.
