@@ -1,7 +1,7 @@
 Вітаємо в документації propertyLease
 ====================================
 
-Contents:
+Зміст:
 
 .. toctree::
    :maxdepth: 2
@@ -15,4 +15,3 @@ Contents:
    stActiveAwarded
    complete
    unsuccessful
-   
