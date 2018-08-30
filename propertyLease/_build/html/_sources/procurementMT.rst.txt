@@ -17,7 +17,7 @@ procurementMethodType: propertyLease
 
 .. _glossary:
 
-Глоссарій
+Глосарій
 ---------
 
 :tenderPeriod:
