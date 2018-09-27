@@ -14,4 +14,5 @@
    bids
    results
    AuctionEnd
+   scenario
  
