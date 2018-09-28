@@ -1,5 +1,5 @@
 ![alt text](https://img.shields.io/hexpm/l/plug.svg "License Apache Version 2.0")
-[![Documentation Status](https://readthedocs.org/projects/mepps-mdtor/badge/?version=latest)](http://tor.mepps.openprocurement.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/tor/badge/?version=latest)](https://tor.readthedocs.io/uk_UA/latest/?badge=latest)
 
 Moldovan electronic Public Procurement System
 
